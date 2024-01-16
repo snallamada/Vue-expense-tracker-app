@@ -1,6 +1,6 @@
 <template>
-  <h4>Your Balance</h4>
-  <h1 id="balance">${{ total }}</h1>
+  <center><h2>Your Balance</h2>
+  <h1 id="balance">${{ total }}</h1></center>
 </template>
 
 <script setup>

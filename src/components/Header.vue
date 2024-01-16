@@ -1,3 +1,3 @@
 <template>
-  <h2>Expense Tracker</h2>
+  <center><h1 style="color: green;">Expense Tracker</h1></center>
 </template>
